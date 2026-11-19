@@ -29,7 +29,7 @@ def verificar_login():
         usuarios_validos = dict(st.secrets["USUARIOS"])
     except Exception:
         usuarios_validos = {
-            "admin": "1234",
+            "hidrostudio": "Agsaoisfeu@#5s6",
             "engenharia": "orca2026"
         }
 
